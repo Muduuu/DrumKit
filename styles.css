@@ -86,8 +86,8 @@ footer {
 @media(max-width:350px) {
 
   .drum {
-    height: 200px;
-    width: 200px;
+    height: 500px;
+    width: 500px;
 
   }
 }
