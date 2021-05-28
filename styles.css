@@ -81,5 +81,13 @@ footer {
   h1 {
     font-size: 3rem;
   }
+}
 
+@media(max-width:350px) {
+
+  .drum {
+    height: 200px;
+    width: 200px;
+
+  }
 }
